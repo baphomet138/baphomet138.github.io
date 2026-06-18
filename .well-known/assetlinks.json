@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.baphomet138.twa",
+      "sha256_cert_fingerprints": [
+        "46:9B:36:CF:D9:03:18:BD:AC:CC:8C:07:80:9F:01:C6:A1:69:49:86:EA:D9:0A:0F:60:5B:46:01:C7:86:16:C3"
+      ]
+    }
+  }
+]
